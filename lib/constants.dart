@@ -1,0 +1,1 @@
+const kpramirycolor=Color(0xff62Fcd7)  
